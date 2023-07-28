@@ -43,7 +43,7 @@ familiar with designing and implementing user friendly applications using Html C
 
 ✔ Pronouns: ***He/His*** 😉 <br>
 - 🔭 I’m currently working on PT. Pelindo
-- 🌱 I’m currently learning **ReactJS** & **NodeJS** (**brewing Coffee too**)<br>
+- 🌱 I’m currently learning **ReactJS** ,**Flutter** & **NodeJS** (**brewing Coffee too**)<br>
 - 👯 I’m looking to collaborate with any **Open - Source contribution**<br>
 - 🤔 I’m looking for help for learning **Remote Sensing**<br>
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
