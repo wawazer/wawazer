@@ -76,10 +76,30 @@ From sketching ideas in **Figma** to bringing them to life with **HTML, CSS, and
 
 ### 📜 THE GITHUB CHRONICLES
 
+
+### 📜 THE GITHUB CHRONICLES
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wawazer&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E5E5E5&icon_color=BC4749&rank_icon=github" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wawazer&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E5E5E5" height="165" alt="Most used languages"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=wawazer&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E5E5E5&icon_color=BC4749&rank_icon=github"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=wawazer&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E5E5E5"
+    height="165"
+    alt="Most used languages"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=wawazer&hide_border=true&background=0D0D0D&ring=D4AF37&fire=BC4749&currStreakLabel=D4AF37&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"
+    width="70%"
+    alt="GitHub contribution streak"
+  />
+</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wawazer&hide_border=true&background=0D0D0D&ring=D4AF37&fire=BC4749&currStreakLabel=D4AF37&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%" alt="GitHub contribution streak"/>
