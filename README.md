@@ -100,11 +100,6 @@ From sketching ideas in **Figma** to bringing them to life with **HTML, CSS, and
   />
 </p>
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wawazer&hide_border=true&background=0D0D0D&ring=D4AF37&fire=BC4749&currStreakLabel=D4AF37&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%" alt="GitHub contribution streak"/>
-</p>
-
 ### 🏮 THE BUSHIDO CODE
 
 | Principle | Meaning |
