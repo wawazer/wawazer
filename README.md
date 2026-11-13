@@ -6,6 +6,14 @@
 </p>
 
 <p align="center">
+  <img
+    src="https://backiee.com/wallpaper/lone-samurai-beneath-the-torii-gate-in-crimson-mist/348428?utm_source=chatgpt.com"
+    width="100%"
+    alt="The Last Ronin"
+  />
+</p>
+
+<p align="center">
   <samp>「 我が道を行く 」</samp>
   <br/>
   <i>Walk your own path. Master your own craft.</i>
