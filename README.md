@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://backiee.com/wallpaper/lone-samurai-beneath-the-torii-gate-in-crimson-mist/348428?utm_source=chatgpt.com"
+    src="https://backiee.com/static/wallpapers/1000x563/448428.webp"
     width="100%"
     alt="The Last Ronin"
   />
