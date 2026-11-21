@@ -1,133 +1,240 @@
-# ⚔️ MUHAMMAD ZEN WAWAZER
-### 侍 — THE LAST RONIN
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     T H E   L A S T   R O N I N   ·   wawazer
+     "A blade unused grows dull. A mind unused grows the same."
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,30:1B0B0D,65:650D16,100:080808&height=250&section=header&text=ZEN%20WAWAZER&fontSize=52&fontColor=C9A55C&animation=fadeIn&fontAlignY=38&desc=THE%20WAY%20OF%20THE%20DIGITAL%20RONIN&descAlignY=58&descSize=13" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://backiee.com/static/wallpapers/1000x563/448428.webp"
-    width="100%"
-    alt="The Last Ronin"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:1B0B0D,62:650D16,100:050505&height=230&section=header&text=ZEN%20WAWAZER&fontSize=58&fontColor=C9A55C&fontAlignY=36&stroke=650D16&strokeWidth=1&desc=THE%20WAY%20OF%20THE%20DIGITAL%20RONIN&descAlignY=56&descSize=13&animation=fadeIn" width="100%" alt="Zen Wawazer" />
 
-<p align="center">
-  <samp>「 我が道を行く 」</samp>
-  <br/>
-  <i>Walk your own path. Master your own craft.</i>
-</p>
+<img src="assets/hero.jpg" width="100%" alt="The last ronin under a blood moon" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-zen-wawazer-131b8582/">
-    <img src="https://img.shields.io/badge/LINKEDIN-171313?style=flat-square&logo=linkedin&logoColor=C9A55C"/>
-  </a>
-  <a href="https://www.instagram.com/zenwawazer/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-171313?style=flat-square&logo=instagram&logoColor=C9A55C"/>
-  </a>
-  <a href="mailto:wawazer@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-171313?style=flat-square&logo=gmail&logoColor=C9A55C"/>
-  </a>
-</p>
+<br/><br/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Shippori+Mincho&weight=600&size=24&duration=3200&pause=900&color=C9A55C&center=true&vCenter=true&width=760&height=90&lines=%E3%80%8C+%E6%88%91%E3%81%8C%E9%81%93%E3%82%92%E8%A1%8C%E3%81%8F+%E3%80%8D;Walk+your+own+path.;Master+your+own+craft.;Fall+seven+times.+Rise+eight.;The+blade+is+never+sharp+enough." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<samp>「 侍 — 一人の浪人、一本の刀、果てしない道 」</samp>
+
+<br/>
+
+<i>One ronin. One blade. An endless road.</i>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/muhammad-zen-wawazer-131b8582/">
+  <img src="https://img.shields.io/badge/LINKEDIN-171313?style=flat-square&logo=linkedin&logoColor=C9A55C&labelColor=0D0D0D" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/zenwawazer/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-171313?style=flat-square&logo=instagram&logoColor=C9A55C&labelColor=0D0D0D" alt="Instagram" />
+</a>
+<a href="mailto:wawazer@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-171313?style=flat-square&logo=gmail&logoColor=C9A55C&labelColor=0D0D0D" alt="Email" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=wawazer&style=flat-square&color=9B2226&label=WANDERERS&labelColor=0D0D0D" alt="Profile views" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=650D16&height=2&width=100" width="100%" alt="" />
+
+<br/>
+
+<!-- ─────────────────────────── 第 一 章 ─────────────────────────── -->
+
+<div align="center">
 
 ## 🏯 第一章 — THE RONIN
 
+</div>
+
 > *A samurai without a master is not without a purpose.*
 
-I am **Muhammad Zen Wawazer**, a digital craftsman navigating the intersection of design and technology.
+I am **Muhammad Zen Wawazer** — a digital craftsman wandering the borderlands between design and technology.
 
-Like a wandering ronin, I believe mastery is not a destination, but a lifelong journey. Every project is a new battlefield, every challenge an opportunity to sharpen the blade.
+The old masters spoke of **shokunin**, the artisan's spirit: a lifelong devotion to the craft itself, never to the applause. I hold to that. Every interface is a stroke of the brush. Every system is a kata, repeated until it becomes instinct. Nothing shipped is ever finished — only sharpened.
 
-My work revolves around creating meaningful digital experiences through thoughtful design and purposeful development.
+I build thoughtful digital experiences through design that respects the people who use it, and code that respects the people who maintain it.
 
----
+<br/>
+
+<!-- ─────────────────────────── 第 二 章 ─────────────────────────── -->
+
+<div align="center">
 
 ## ⚔️ 第二章 — THE PATH
 
-**My current journey**
+</div>
 
-| Path | Pursuit |
+<div align="center">
+
+| 道 · The Road | 修行 · The Pursuit |
 |:---|:---|
-| 🎴 Profession | UI/UX Designer & Frontend Developer |
-| 🏯 Affiliation | PT Pelindo & Freelance |
-| 🗡️ Learning | React.js, Flutter & Node.js |
-| 🎨 Craft | Digital Product Design |
-| 📜 Interest | Open Source & Technology |
+| 🎴 **Craft** | UI/UX Designer & Frontend Developer |
+| 🏯 **Domain** | PT Pelindo · Freelance |
+| 🗡️ **Training** | React.js · Flutter · Node.js |
+| 🎨 **Focus** | Digital Product Design |
+| 📜 **Code of Honor** | Open Source & Clean Architecture |
+| 🌙 **Hours** | Late. Always late. |
 
-**The journey so far:**
+</div>
 
-- Creating digital experiences that put people first.
-- Transforming ideas into functional interfaces.
-- Exploring new technologies and sharpening development skills.
-- Working on digital solutions at PT Pelindo.
-- Continuously learning, experimenting, and building.
+<br/>
 
----
+<details>
+<summary><b>&nbsp;◈&nbsp; READ THE SCROLL — the journey so far</b></summary>
+
+<br/>
+
+- **I.** Shaping digital experiences that put people before pixels.
+- **II.** Turning half-formed ideas into interfaces that feel inevitable.
+- **III.** Hunting new technologies the way a swordsman hunts better form.
+- **IV.** Sharpening real-world systems at **PT Pelindo**.
+- **V.** Learning, breaking, rebuilding — the only loop that matters.
+
+</details>
+
+<br/>
+
+<!-- ─────────────────────────── 第 三 章 ─────────────────────────── -->
+
+<div align="center">
 
 ## 🥷 第三章 — THE ART OF WAR
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=DISCIPLINE%20%2F%20PRECISION%20%2F%20CREATION&fontSize=17&fontColor=C9A55C" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=DISCIPLINE%20%2F%20PRECISION%20%2F%20CREATION&fontSize=16&fontColor=C9A55C&stroke=650D16&strokeWidth=0" width="100%" alt="" />
 
-I believe great craftsmanship comes from three things:
+</div>
 
-**01 — Discipline**
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<h3>01 — 規律</h3>
+<b>DISCIPLINE</b><br/><br/>
+<sub>Consistency outlasts motivation.<br/>Show up on the days the fire is gone.</sub>
+</td>
+<td align="center" width="33%">
+<h3>02 — 精密</h3>
+<b>PRECISION</b><br/><br/>
+<sub>Every detail is a decision.<br/>Every decision has a reason.</sub>
+</td>
+<td align="center" width="33%">
+<h3>03 — 創造</h3>
+<b>CREATION</b><br/><br/>
+<sub>Technology is the blade.<br/>Creativity is the hand that wields it.</sub>
+</td>
+</tr>
+</table>
 
-Consistency is stronger than temporary motivation.
+<br/>
 
-**02 — Precision**
+<!-- ─────────────────────────── 第 四 章 ─────────────────────────── -->
 
-Every detail matters. Every decision has a purpose.
+<div align="center">
 
-**03 — Creation**
+## 🗡️ 第四章 — THE ARSENAL
 
-Technology is the blade. Creativity is the hand that guides it.
+<br/>
 
----
+**刃 — The Blade** &nbsp;·&nbsp; *interface & motion*
 
-## 📊 第四章 — BATTLE RECORDS
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,flutter,tailwind,figma&theme=dark&perline=9" alt="Frontend arsenal" />
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=wawazer&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9A55C&text_color=E5E5E5&icon_color=9B2226&rank_icon=github" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wawazer&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C9A55C&text_color=E5E5E5" height="165" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wawazer&hide_border=true&background=0D0D0D&ring=C9A55C&fire=9B2226&currStreakLabel=C9A55C&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%" />
-</p>
+**炉 — The Forge** &nbsp;·&nbsp; *systems & data*
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,firebase,git,github,docker,vscode&theme=dark&perline=11" alt="Backend arsenal" />
 
-## 📜 第五章 — BUSHIDO
+</div>
+
+<br/>
+
+<!-- ─────────────────────────── 第 五 章 ─────────────────────────── -->
+
+<div align="center">
+
+## 📊 第五章 — BATTLE RECORDS
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=wawazer&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9A55C&text_color=E5E5E5&icon_color=9B2226&include_all_commits=true&count_private=true&rank_icon=github&border_radius=0" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wawazer&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C9A55C&text_color=E5E5E5&langs_count=8&border_radius=0" alt="Top languages" />
+
+<br/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=wawazer&hide_border=true&background=0D0D0D&ring=C9A55C&fire=9B2226&currStreakLabel=C9A55C&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border_radius=0" alt="Streak" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wawazer&bg_color=0D0D0D&color=E5E5E5&line=C9A55C&point=9B2226&area=true&area_color=650D16&hide_border=true&custom_title=THE%20LONG%20CAMPAIGN" alt="Activity graph" />
+
+<br/>
+
+<samp>「 千日の稽古を鍛とし、万日の稽古を練とす 」</samp>
+
+<br/>
+
+<i>a thousand days of training to forge · ten thousand days of training to polish</i>
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────── 第 六 章 ─────────────────────────── -->
+
+<div align="center">
+
+## 📜 第六章 — BUSHIDO
 
 ### 武士道 — THE SEVEN VIRTUES
 
-| Virtue | Principle |
-|:---|:---|
-| 義 Gi | Righteousness — Stand for what is right. |
-| 勇 Yu | Courage — Face every challenge. |
-| 仁 Jin | Benevolence — Create for the people. |
-| 礼 Rei | Respect — Honor every collaboration. |
-| 誠 Makoto | Honesty — Be true to your words. |
-| 名誉 Meiyo | Honor — Protect your integrity. |
-| 忠義 Chūgi | Loyalty — Stay committed to your path. |
+</div>
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9B2226&height=1&section=header" width="65%"/>
-  <br/><br/>
-  <samp>七転び八起き</samp>
-  <br/>
-  <i>Fall seven times. Rise eight.</i>
-  <br/><br/>
-  <samp>「 THE BLADE IS NEVER SHARP ENOUGH 」</samp>
-  <br/>
-  <sub>KEEP LEARNING. KEEP BUILDING. KEEP MOVING.</sub>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:650D16,100:080808&height=130&section=footer" width="100%"/>
-</p>
+| 徳 | Virtue | Principle |
+|:---:|:---|:---|
+| **義** | *Gi* — Righteousness | Stand for what is right, especially when it costs you. |
+| **勇** | *Yu* — Courage | Face every challenge. Fear is a compass, not a wall. |
+| **仁** | *Jin* — Benevolence | Build for people, not for metrics. |
+| **礼** | *Rei* — Respect | Honor every collaboration. Leave the code kinder than you found it. |
+| **誠** | *Makoto* — Honesty | Say what you mean. Ship what you promise. |
+| **名誉** | *Meiyo* — Honor | Protect your integrity. It is the only sword that never breaks. |
+| **忠義** | *Chūgi* — Loyalty | Stay committed to the craft, long after the novelty fades. |
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────── 終 章 ─────────────────────────── -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=650D16&height=2&width=100" width="65%" alt="" />
+
+<br/><br/>
+
+<samp>七 転 び 八 起 き</samp>
+
+<br/>
+
+<i>Fall seven times. Rise eight.</i>
+
+<br/><br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Shippori+Mincho&weight=700&size=20&duration=2600&pause=700&color=9B2226&center=true&vCenter=true&width=620&height=52&lines=%E3%80%8C+THE+BLADE+IS+NEVER+SHARP+ENOUGH+%E3%80%8D" alt="The blade is never sharp enough" />
+
+<br/>
+
+<sub>KEEP LEARNING · KEEP BUILDING · KEEP MOVING</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:650D16,100:050505&height=140&section=footer" width="100%" alt="" />
+
+</div>
