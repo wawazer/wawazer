@@ -132,28 +132,6 @@ I build thoughtful digital experiences through design that respects the people w
 
 <br/>
 
-<!-- ─────────────────────────── 第 四 章 ─────────────────────────── -->
-
-<div align="center">
-
-## 🗡️ 第四章 — THE ARSENAL
-
-<br/>
-
-**刃 — The Blade** &nbsp;·&nbsp; *interface & motion*
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,flutter,tailwind,figma&theme=dark&perline=9" alt="Frontend arsenal" />
-
-<br/><br/>
-
-**炉 — The Forge** &nbsp;·&nbsp; *systems & data*
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,firebase,git,github,docker,vscode&theme=dark&perline=11" alt="Backend arsenal" />
-
-</div>
-
-<br/>
-
 <!-- ─────────────────────────── 第 五 章 ─────────────────────────── -->
 
 <div align="center">
