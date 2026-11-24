@@ -226,6 +226,10 @@ wawazer/
 
 <br/><br/>
 
+<img width="100%" src="./assets/stats-heatmap.svg" alt="Animated contribution heatmap: 207 contributions from 23 Nov 2025 to 24 Nov 2026"/>
+
+<br/><br/>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wawazer&bg_color=05060F&color=E6ECFF&line=E8C766&point=C026D3&area=true&area_color=4C1D95&hide_border=true&custom_title=THE%20LONG%20FLIGHT" alt="Activity graph"/>
 
 <br/>
