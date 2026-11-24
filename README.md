@@ -1,218 +1,293 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     T H E   L A S T   R O N I N   ·   wawazer
-     "A blade unused grows dull. A mind unused grows the same."
+     O R B I T A L   ·   wawazer
+     "We are all made of star stuff — but the code is still ours to write."
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:1B0B0D,62:650D16,100:050505&height=230&section=header&text=ZEN%20WAWAZER&fontSize=58&fontColor=C9A55C&fontAlignY=36&stroke=650D16&strokeWidth=1&desc=THE%20WAY%20OF%20THE%20DIGITAL%20RONIN&descAlignY=56&descSize=13&animation=fadeIn" width="100%" alt="Zen Wawazer" />
-
-<img src="assets/hero.jpg" width="100%" alt="The last ronin under a blood moon" />
+<img src="./assets/header.svg" width="100%" alt="Zen Wawazer — wanderer of the digital cosmos"/>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Shippori+Mincho&weight=600&size=24&duration=3200&pause=900&color=C9A55C&center=true&vCenter=true&width=760&height=90&lines=%E3%80%8C+%E6%88%91%E3%81%8C%E9%81%93%E3%82%92%E8%A1%8C%E3%81%8F+%E3%80%8D;Walk+your+own+path.;Master+your+own+craft.;Fall+seven+times.+Rise+eight.;The+blade+is+never+sharp+enough." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=E8C766&center=true&vCenter=true&width=700&height=42&lines=%24+hello%2C+i+am+zen+wawazer;%24+ui%2Fux+designer+%C2%B7+frontend+developer;%24+plotting+a+course+through+the+galaxy;%24+design.+build.+launch.+repeat." alt="Terminal introduction"/>
 </a>
 
 <br/>
 
-<samp>「 侍 — 一人の浪人、一本の刀、果てしない道 」</samp>
+<samp>「 星 の 海 を 渡 る 」</samp>
 
 <br/>
 
-<i>One ronin. One blade. An endless road.</i>
+<i>A wanderer, crossing the sea of stars.</i>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/muhammad-zen-wawazer-131b8582/">
-  <img src="https://img.shields.io/badge/LINKEDIN-171313?style=flat-square&logo=linkedin&logoColor=C9A55C&labelColor=0D0D0D" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A0E27?style=flat-square&logo=linkedin&logoColor=38BDF8&labelColor=05060F" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/zenwawazer/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-171313?style=flat-square&logo=instagram&logoColor=C9A55C&labelColor=0D0D0D" alt="Instagram" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-0A0E27?style=flat-square&logo=instagram&logoColor=F0A6E8&labelColor=05060F" alt="Instagram"/>
 </a>
 <a href="mailto:wawazer@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT-171313?style=flat-square&logo=gmail&logoColor=C9A55C&labelColor=0D0D0D" alt="Email" />
+  <img src="https://img.shields.io/badge/TRANSMIT-0A0E27?style=flat-square&logo=gmail&logoColor=E8C766&labelColor=05060F" alt="Email"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=wawazer&style=flat-square&color=9B2226&label=WANDERERS&labelColor=0D0D0D" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=wawazer&style=flat-square&color=6D3BD8&label=VISITORS&labelColor=05060F" alt="Profile views"/>
+
+<br/><br/>
+
+<a href="#console"><kbd>&nbsp;Console&nbsp;</kbd></a>
+<a href="#star-chart"><kbd>&nbsp;Star Chart&nbsp;</kbd></a>
+<a href="#constellation"><kbd>&nbsp;Constellation&nbsp;</kbd></a>
+<a href="#expedition"><kbd>&nbsp;Expedition&nbsp;</kbd></a>
+<a href="#workspace"><kbd>&nbsp;Workspace&nbsp;</kbd></a>
+<a href="#logs"><kbd>&nbsp;Logs&nbsp;</kbd></a>
+<a href="#signal"><kbd>&nbsp;Signal&nbsp;</kbd></a>
+
+<br/><br/>
+
+<img src="./assets/marquee.svg" width="100%" alt="Scrolling galaxy of tools"/>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=650D16&height=2&width=100" width="100%" alt="" />
+<a id="console"></a>
 
-<br/>
-
-<!-- ─────────────────────────── 第 一 章 ─────────────────────────── -->
+## Mission Console
 
 <div align="center">
 
-## 🏯 第一章 — THE RONIN
+<img src="./assets/console.svg" width="82%" alt="Mission console: Muhammad Zen Wawazer, UI/UX designer and frontend developer, currently orbiting PT Pelindo"/>
 
-</div>
+<br/><br/>
 
-> *A samurai without a master is not without a purpose.*
+**Hello, universe. 👋**
 
-I am **Muhammad Zen Wawazer** — a digital craftsman wandering the borderlands between design and technology.
+I'm **Muhammad Zen Wawazer** — a designer and frontend developer who treats the browser like a small spacecraft: every layout is a flight plan, every interaction is a manoeuvre, and every release is a launch window.
 
-The old masters spoke of **shokunin**, the artisan's spirit: a lifelong devotion to the craft itself, never to the applause. I hold to that. Every interface is a stroke of the brush. Every system is a kata, repeated until it becomes instinct. Nothing shipped is ever finished — only sharpened.
-
-I build thoughtful digital experiences through design that respects the people who use it, and code that respects the people who maintain it.
+I care about interfaces that feel calm under pressure, and code that another engineer can read at 2 a.m. without cursing my name. Design is not decoration here; it is navigation.
 
 <br/>
 
-<!-- ─────────────────────────── 第 二 章 ─────────────────────────── -->
+<sub>**CURRENT ORBIT** &nbsp;·&nbsp; designing digital products &nbsp;·&nbsp; building frontends &nbsp;·&nbsp; learning the backend sky</sub>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<br/>
+
+<a id="star-chart"></a>
+
+## Star Chart
 
 <div align="center">
 
-## ⚔️ 第二章 — THE PATH
+*Everything I use to navigate.*
+
+<br/>
+
+**◆ &nbsp;CORE&nbsp;·&nbsp;the engines**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,flutter&theme=dark&perline=7" alt="HTML CSS JavaScript TypeScript React Next.js Flutter"/>
+
+<br/><br/>
+
+**◆ &nbsp;INTERFACE&nbsp;·&nbsp;the cockpit**
+
+<img src="https://skillicons.dev/icons?i=tailwind,figma,vite,npm&theme=dark&perline=4" alt="Tailwind Figma Vite npm"/>
+
+<br/><br/>
+
+**◆ &nbsp;SYSTEMS&nbsp;·&nbsp;the hull**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,firebase&theme=dark&perline=7" alt="Node.js Express PHP Laravel MySQL MongoDB Firebase"/>
+
+<br/><br/>
+
+**◆ &nbsp;DRIFT&nbsp;·&nbsp;the instruments**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark&perline=5" alt="Git GitHub Docker VS Code Linux"/>
 
 </div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<br/>
+
+<a id="constellation"></a>
+
+## Constellation
 
 <div align="center">
 
-| 道 · The Road | 修行 · The Pursuit |
-|:---|:---|
-| 🎴 **Craft** | UI/UX Designer & Frontend Developer |
-| 🏯 **Domain** | PT Pelindo · Freelance |
-| 🗡️ **Training** | React.js · Flutter · Node.js |
-| 🎨 **Focus** | Digital Product Design |
-| 📜 **Code of Honor** | Open Source & Clean Architecture |
-| 🌙 **Hours** | Late. Always late. |
+*Thirteen stars, one sky. Each one earned, not granted.*
+
+<br/>
+
+<img src="./assets/skill-tree.svg" width="100%" alt="Constellation skill map: from HTML and CSS through React, Node.js and Docker"/>
 
 </div>
 
 <br/>
 
-<details>
-<summary><b>&nbsp;◈&nbsp; READ THE SCROLL — the journey so far</b></summary>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <br/>
 
-- **I.** Shaping digital experiences that put people before pixels.
-- **II.** Turning half-formed ideas into interfaces that feel inevitable.
-- **III.** Hunting new technologies the way a swordsman hunts better form.
-- **IV.** Sharpening real-world systems at **PT Pelindo**.
-- **V.** Learning, breaking, rebuilding — the only loop that matters.
+<a id="expedition"></a>
 
-</details>
-
-<br/>
-
-<!-- ─────────────────────────── 第 三 章 ─────────────────────────── -->
+## The Expedition
 
 <div align="center">
 
-## 🥷 第三章 — THE ART OF WAR
+<img src="./assets/pipeline.svg" width="90%" alt="CI/CD orbit: code, build, test, ship, observe"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=DISCIPLINE%20%2F%20PRECISION%20%2F%20CREATION&fontSize=16&fontColor=C9A55C&stroke=650D16&strokeWidth=0" width="100%" alt="" />
+<br/><br/>
+
+**Next destinations**
+
+<img src="https://skillicons.dev/icons?i=githubactions,aws,kubernetes,terraform&theme=dark&perline=4" alt="GitHub Actions AWS Kubernetes Terraform"/>
+
+<br/><br/>
+
+<sub>`compute` launch a real deployment pipeline &nbsp;·&nbsp; `payload` test infrastructure that never breaks twice &nbsp;·&nbsp; `signal` learn observability before it learns me</sub>
 
 </div>
 
-<table width="100%">
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<br/>
+
+<a id="workspace"></a>
+
+## Inside the Workspace
+
+<div align="center">
+
+*Where the ship gets built: one commit at a time, mostly at night.*
+
+<br/>
+
+**PLAN → DESIGN → BUILD → BREAK → DEBUG → SHIP**
+
+<br/><br/>
+
+```text
+wawazer/
+├── ⌁ design/            figma frames · design tokens · prototypes
+├── ⌁ frontend/          react · next.js · tailwind · animation
+├── ⌁ mobile/            flutter experiments
+├── ⌁ backend/           node · express · laravel · rest apis
+├── ⌁ data/              mysql · mongodb · firebase
+├── ⌁ ops/               git · docker · ci/cd (in progress)
+└── ⌁ labs/              half-finished ideas, kept on purpose
+```
+
+<br/>
+
+<sub>Rules of the ship: name things honestly · leave the campfire cleaner than you found it · ship small, ship often.</sub>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<br/>
+
+<a id="logs"></a>
+
+## Mission Logs
+
+<div align="center">
+
+*Telemetry from the last few years in orbit.*
+
+<br/>
+
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=wawazer&show_icons=true&hide_border=true&bg_color=05060F&title_color=E8C766&text_color=E6ECFF&icon_color=C026D3&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12" alt="GitHub stats"/>
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wawazer&layout=compact&hide_border=true&bg_color=05060F&title_color=E8C766&text_color=E6ECFF&langs_count=8&border_radius=12" alt="Top languages"/>
+
+<br/><br/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=wawazer&hide_border=true&background=05060F&ring=E8C766&fire=C026D3&currStreakLabel=E8C766&sideLabels=9AA6D6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6F7CB0&border_radius=12" alt="Contribution streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wawazer&bg_color=05060F&color=E6ECFF&line=E8C766&point=C026D3&area=true&area_color=4C1D95&hide_border=true&custom_title=THE%20LONG%20FLIGHT" alt="Activity graph"/>
+
+<br/>
+
+<samp>「 上 を 見 ろ 。星 は そ こ に あ る 」</samp>
+
+<br/>
+
+<i>Look up. The stars are right there.</i>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<br/>
+
+<a id="signal"></a>
+
+## Open Frequency
+
+<div align="center">
+
+<table width="86%">
 <tr>
-<td align="center" width="33%">
-<h3>01 — 規律</h3>
-<b>DISCIPLINE</b><br/><br/>
-<sub>Consistency outlasts motivation.<br/>Show up on the days the fire is gone.</sub>
-</td>
-<td align="center" width="33%">
-<h3>02 — 精密</h3>
-<b>PRECISION</b><br/><br/>
-<sub>Every detail is a decision.<br/>Every decision has a reason.</sub>
-</td>
-<td align="center" width="33%">
-<h3>03 — 創造</h3>
-<b>CREATION</b><br/><br/>
-<sub>Technology is the blade.<br/>Creativity is the hand that wields it.</sub>
+<td align="center">
+
+### Signal Received?
+
+Good work rarely happens alone. If you're building something that deserves a better interface — or a frontend that doesn't fall apart at the seams — my channel is open.
+
+<br/>
+
+`Open Source` &nbsp;·&nbsp; `Product Design` &nbsp;·&nbsp; `Frontend` &nbsp;·&nbsp; `Collaboration`
+
+<br/><br/>
+
+<a href="mailto:wawazer@gmail.com">
+  <img src="https://img.shields.io/badge/OPEN%20A%20CHANNEL-wawazer%40gmail.com-6D3BD8?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=05060F" alt="Email me"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/wawazer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub" title="GitHub"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-zen-wawazer-131b8582/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42" alt="LinkedIn" title="LinkedIn"/></a>
+&nbsp;
+<a href="https://www.instagram.com/zenwawazer/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="42" alt="Instagram" title="Instagram"/></a>
+&nbsp;
+<a href="mailto:wawazer@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="42" alt="Email" title="Email"/></a>
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<!-- ─────────────────────────── 第 五 章 ─────────────────────────── -->
-
-<div align="center">
-
-## 📊 第五章 — BATTLE RECORDS
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wawazer&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9A55C&text_color=E5E5E5&icon_color=9B2226&include_all_commits=true&count_private=true&rank_icon=github&border_radius=0" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wawazer&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C9A55C&text_color=E5E5E5&langs_count=8&border_radius=0" alt="Top languages" />
-
-<br/>
-
-<img width="72%" src="https://streak-stats.demolab.com?user=wawazer&hide_border=true&background=0D0D0D&ring=C9A55C&fire=9B2226&currStreakLabel=C9A55C&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border_radius=0" alt="Streak" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wawazer&bg_color=0D0D0D&color=E5E5E5&line=C9A55C&point=9B2226&area=true&area_color=650D16&hide_border=true&custom_title=THE%20LONG%20CAMPAIGN" alt="Activity graph" />
-
-<br/>
-
-<samp>「 千日の稽古を鍛とし、万日の稽古を練とす 」</samp>
-
-<br/>
-
-<i>a thousand days of training to forge · ten thousand days of training to polish</i>
-
-</div>
-
-<br/>
-
-<!-- ─────────────────────────── 第 六 章 ─────────────────────────── -->
-
-<div align="center">
-
-## 📜 第六章 — BUSHIDO
-
-### 武士道 — THE SEVEN VIRTUES
-
-</div>
-
-<div align="center">
-
-| 徳 | Virtue | Principle |
-|:---:|:---|:---|
-| **義** | *Gi* — Righteousness | Stand for what is right, especially when it costs you. |
-| **勇** | *Yu* — Courage | Face every challenge. Fear is a compass, not a wall. |
-| **仁** | *Jin* — Benevolence | Build for people, not for metrics. |
-| **礼** | *Rei* — Respect | Honor every collaboration. Leave the code kinder than you found it. |
-| **誠** | *Makoto* — Honesty | Say what you mean. Ship what you promise. |
-| **名誉** | *Meiyo* — Honor | Protect your integrity. It is the only sword that never breaks. |
-| **忠義** | *Chūgi* — Loyalty | Stay committed to the craft, long after the novelty fades. |
-
-</div>
-
-<br/>
-
-<!-- ─────────────────────────── 終 章 ─────────────────────────── -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=650D16&height=2&width=100" width="65%" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1100&color=38BDF8&center=true&vCenter=true&width=540&height=32&lines=learning+in+public.;building+for+people.;see+you+among+the+stars." alt="Closing line"/>
 
 <br/><br/>
 
-<samp>七 転 び 八 起 き</samp>
-
-<br/>
-
-<i>Fall seven times. Rise eight.</i>
-
-<br/><br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Shippori+Mincho&weight=700&size=20&duration=2600&pause=700&color=9B2226&center=true&vCenter=true&width=620&height=52&lines=%E3%80%8C+THE+BLADE+IS+NEVER+SHARP+ENOUGH+%E3%80%8D" alt="The blade is never sharp enough" />
-
-<br/>
-
-<sub>KEEP LEARNING · KEEP BUILDING · KEEP MOVING</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:650D16,100:050505&height=140&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="Per aspera ad astra"/>
 
 </div>
