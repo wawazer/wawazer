@@ -52,6 +52,14 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
+<br/>
+
+<img src="./assets/galaxy.svg" width="100%" alt="The Milky Way — 700 billion stars, one of them is mine"/>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
 </div>
 
 <br/>
